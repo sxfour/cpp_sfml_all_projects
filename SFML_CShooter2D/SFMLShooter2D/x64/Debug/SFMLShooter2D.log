@@ -1,0 +1,21 @@
+﻿  main.cpp
+D:\Users\Levashov\AllCode\C\SFMLShooter2D\main.cpp(27,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Users\Levashov\AllCode\C\SFMLShooter2D\main.cpp(91,67): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Users\Levashov\AllCode\C\SFMLShooter2D\main.cpp(91,38): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  SFMLShooter2D.vcxproj -> D:\Users\Levashov\AllCode\C\SFMLShooter2D\x64\Debug\SFMLShooter2D.exe
