@@ -1,5 +1,5 @@
 # CShooter2D
 Template shooter game 2D on CPlus
 
-https://github.com/sxfour/CShooter2D/assets/112577182/2359b91f-a320-4057-a542-170aca035b0a
 
+https://github.com/sxfour/cpp_sfml_all_projects/assets/112577182/fcc803cf-950c-4fab-9f01-aefc9d4613a5
