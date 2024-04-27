@@ -1,3 +1,4 @@
 # AudioPlayerSFML
 # Аудиоплеер на SFML
-https://github.com/sxfour/AudioPlayerSFML/assets/112577182/43196b4b-9b81-4e31-a98a-cbf17be12ac9
+
+https://github.com/sxfour/cpp_sfml_all_projects/assets/112577182/7057ba8c-294c-4bda-8cf0-0b8e83e9c336
