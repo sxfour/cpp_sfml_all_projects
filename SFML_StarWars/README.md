@@ -1,4 +1,4 @@
-# ![icon](https://github.com/sxfour/SFMLStarWars/assets/112577182/687545bf-3155-4d0d-9a89-7bf236690239) SFMLStarWars
+# ![444](https://github.com/sxfour/cpp_sfml_all_projects/assets/112577182/4ae0e28b-1071-4300-8eac-b9e2c63ef429) SFMLStarWars
 # Первая из моих игр с использованием библиотеки SFML и ООП на C++ #1
 
 https://github.com/sxfour/cpp_sfml_all_projects/assets/112577182/e63a79ea-da4e-483e-ac85-3391d8251d2b
